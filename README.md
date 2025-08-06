@@ -52,7 +52,7 @@ The simplest way to run this project is with Docker. Ensure you have Docker inst
 
 Due to the size of the image data (~4.2 GB), the image files are not included in this repository.
 
-To run the project, you need to download the `sample.zip` file, which contains the X-ray images, from the Kaggle page of the **NIH Chest X-ray Dataset Sample**.
+To run the project, you need to download the `sample.zip` file, which contains the X-ray images, from the Kaggle page of the [NIH Chest X-ray Dataset Sample](https://www.kaggle.com/datasets/nih-chest-xrays/sample?resource=download).
 
 1.  Download the `sample.zip` file.
 2.  Unzip the contents and place the `images` folder directly into the `data` directory of this project.
