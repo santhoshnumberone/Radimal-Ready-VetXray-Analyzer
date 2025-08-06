@@ -48,6 +48,14 @@ The simplest way to run this project is with Docker. Ensure you have Docker inst
     docker run radimal-analyzer
     ```
     You will see the final prediction results printed directly to your terminal.
+
+### Model Training and Performance
+<img width="597" height="651" alt="Screenshot 2025-08-06 at 4 40 15 PM" src="https://github.com/user-attachments/assets/b5458ee4-37f3-4a74-89e2-1f921fed0684" />
+
+### Docker Run result
+<img width="381" height="233" alt="Screenshot 2025-08-06 at 4 43 44 PM" src="https://github.com/user-attachments/assets/cb46b67a-d334-43a8-87b7-e74748d76ab9" />
+
+
 ### **Data Source**
 
 Due to the size of the image data (~4.2 GB), the image files are not included in this repository.
