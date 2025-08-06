@@ -50,6 +50,7 @@ The simplest way to run this project is with Docker. Ensure you have Docker inst
     You will see the final prediction results printed directly to your terminal.
 
 ### Model Training and Performance
+The graphs below show the model's performance during the training process. The loss steadily decreases, and accuracy increases, indicating that the model is effectively learning from the data without significant overfitting.
 <img width="597" height="651" alt="Screenshot 2025-08-06 at 4 40 15 PM" src="https://github.com/user-attachments/assets/b5458ee4-37f3-4a74-89e2-1f921fed0684" />
 
 ### Docker Run result
