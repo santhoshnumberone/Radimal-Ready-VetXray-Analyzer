@@ -1,0 +1,3 @@
+# Ignore large data files that should not be committed to Git
+data/images/
+Miniconda3-latest-MacOSX-arm64.sh
